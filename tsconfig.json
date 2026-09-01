@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "jsx": "preserve",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "lib": ["ESNext", "DOM"],
+    "types": ["vite/client"],
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["./resources/js/*"],
+      "@templateCore/*": ["./Modules/TemplateCore/*"],
+      "@template1/*": ["./Modules/Template/PSXFETemplate/Resources/Pages/*"],
+      "@vendorPanel/*": ["./Modules/StoreFront/VendorPanel/Resources/Pages/*"],
+      "@public/*": ["./public/*"],
+    }
+  },
+  "include": [
+    "Modules/**/*.ts",
+    "Modules/**/*.d.ts",
+    "Modules/**/*.vue",
+    "resources/**/*.ts",
+    "resources/**/*.d.ts",
+    "resources/**/*.vue",
+    
+  ],
+  // "references": [{ "path": "./tsconfig.node.json" }]
+}

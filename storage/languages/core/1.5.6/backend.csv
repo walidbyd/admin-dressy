@@ -1,0 +1,6 @@
+key,en,ar,fr,es,pt,hi,id,ja,ms,ru,tr,de,it,ko,zh,action
+core_be__license,License,رخصة,Licence,Licencia,Licença,लाइसेंस,Lisensi,ライセンス,Lesen,Лицензия,Lisans,Lizenz,Licenza,면허,许可证,save
+core_be__project_id,Project Id,معرّف المشروع,ID du projet,ID del Proyecto,ID do Projeto,परियोजना आईडी,ID Proyek,プロジェクトID,ID Projek,Идентификатор проекта,Proje Kimliği,Projekt-ID,ID Progetto,프로젝트 ID,项目编号,save
+core__be_generate_sitemap,Generate Sitemap,إنشاء خريطة الموقع,Générer un plan du site,Generar mapa del sitio,Gerar mapa do site,साइटमैप जनरेट करें,Hasilkan Peta Situs,サイトマップの生成,Hasilkan Peta Laman,Создать карту сайта,Site Haritası Oluştur,Sitemap generieren,Genera mappa del sito,사이트맵 생성,生成站点地图,save
+core__be_sitemap_generated,Sitemap Generated,تم إنشاء خريطة الموقع,Plan du site généré,Mapa del sitio generado,Mapa do site gerado,साइटमैप जनरेट किया गया,Peta Situs Dihasilkan,サイトマップが生成されました,Peta Laman Dihasilkan,Карта сайта создана,Site Haritası Oluşturuldu,Sitemap generiert,Mappa del sito generata,사이트맵이 생성되었습니다,已生成站点地图,save
+core_sys_generate_sitemap,Generate Sitemap,إنشاء خريطة الموقع,Générer un plan du site,Generar mapa del sitio,Gerar mapa do site,साइटमैप जनरेट करें,Hasilkan Peta Situs,サイトマップの生成,Hasilkan Peta Laman,Создать карту сайта,Site Haritası Oluştur,Sitemap generieren,Genera mappa del sito,사이트맵 생성,生成站点地图,save
